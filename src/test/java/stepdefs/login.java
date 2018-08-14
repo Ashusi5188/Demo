@@ -11,7 +11,7 @@ package stepdefs;
 
 public class login {
     static {
-        System.setProperty("webdriver.chrome.driver","driver.chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver",".\driver\chromedriver.exe");
     }
     WebDriver driver;
     @Given("^User is at login page of facebook$")
