@@ -26,6 +26,10 @@ public class login {
     {
         driver.findElement(By.id("email")).sendKeys("ashutoshsingh.realman@gmail.com");
         driver.findElement(By.id("pass")).sendKeys("abc");
+            int a;
+            int b;
+            int c;
+            aaaaaaaaaa
 
     }
 
