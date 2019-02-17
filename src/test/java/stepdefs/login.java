@@ -26,8 +26,7 @@ public class login {
     {
         driver.findElement(By.id("email")).sendKeys("ashutoshsingh.realman@gmail.com");
         driver.findElement(By.id("pass")).sendKeys("abc");
-           private String test="";
-
+          
     }
 
     @And("^User clicks on login button$")
