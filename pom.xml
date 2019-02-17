@@ -37,23 +37,6 @@
             <artifactId>selenium-java</artifactId>
             <version>LATEST</version>
         </dependency>
-
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-server</artifactId>
-            <version>3.141.59</version>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-firefox-driver</artifactId>
-            <version>3.5.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-remote-driver</artifactId>
-            <version>3.5.2</version>
-        </dependency>
-
         <!-- These are the selenium-cucumber methods dependencies -->
         <!-- <dependency>
              <groupId>sample</groupId>
